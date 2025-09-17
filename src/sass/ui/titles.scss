@@ -14,7 +14,7 @@
 .title-h3 {
 	@include title;
 	font-size: 20px;
-	padding-top: 40px;
+	padding: 20px 0 20px 0;
 }
 
 @media screen and (min-width: 768px) {
